@@ -1,0 +1,33 @@
+[
+    {
+        "name":{
+            "firstname":"ram",
+            "lastname":"vaghani"
+        },
+        "address":{
+            "permenent":"sfdfd",
+            "residential":"sdsadxwas"
+        },
+        "mobileno":{
+            "office":215565615,
+            "telphoneno":4561565
+        }
+    },
+    {
+        "name":{
+            "firstname":"sita",
+            "lastname":"savani"
+        },
+        "address":{
+            "permenent":"jnjdnf",
+            "residential":"jdjkdjfk"
+        },
+        "mobileno":{
+            "office":515555155,
+            "telphoneno":454566121
+        }
+    }
+   
+   
+    
+]
